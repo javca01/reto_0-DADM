@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola_mundo_v1</string>
+    <string name="txt">Hola Mundo</string>
+    <string name="btn_1">Escalar</string>
+    <string name="btn_2">Trasladar</string>
+    <string name="btn_3">Rotar</string>
+</resources>
